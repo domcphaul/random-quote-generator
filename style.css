@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1516642898673-edd1ced08e87?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&w=1000&q=80);
+    background-size:cover;
+}
+
+#quoteBox{
+    border-radius: 1%;
+    text-align: center;
+    background-color: #f6b6e5ab;
+    padding: 10%;
+}
+
+button{
+    background-color: #e36eb4;
+    border-color: #e36eb4;
+    margin-top: 4%;
+}
